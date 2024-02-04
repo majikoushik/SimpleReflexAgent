@@ -1,9 +1,7 @@
 package com.simple.reflex.agent;
 
 import com.simple.reflex.environment.Action;
-
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
