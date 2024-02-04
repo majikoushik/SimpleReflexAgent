@@ -18,8 +18,6 @@ import org.junit.Test;
  * selecting "Java Build Path". Finally, selecting "Add Library..."
  * will allow you to select "JUnit" and specify the version.
  * DO NOT MODIFY.
-
- * @author Adam Gaweda
  */ 
 public class TestCase {
   private final int numTrials = 100;
